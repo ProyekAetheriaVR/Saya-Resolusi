@@ -1,4 +1,7 @@
 RENCANA LIBUR SEMESTER HAYKAL
 1).Belajar github
+* Saya akan membuat sebuah kerja sama dengan teman sekelas saya
 2).Belajar Python
+* Belajar Python hingga saya mampu membuat prototyp ai sederhana
 3).Belajar Unreal Enggine
+* Belajar Unreal Enggine hingga saya dapat membuat sebuah Prototyp game sederhana
